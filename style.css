@@ -80,3 +80,11 @@ button:nth-child(20){
 	font-size: 20px;
 	background-color: #9477af;
 }
+
+button {
+    box-shadow: 4px 2px 20px -7px;
+}
+div#result {
+    background: #e8ffe0;
+    margin: 10px;
+}
